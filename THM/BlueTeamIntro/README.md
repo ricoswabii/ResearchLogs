@@ -1,5 +1,5 @@
 # THM_Blue-Team-Introduction
-
+ ![alt text](Assets/BTI.png)
 ## Table of Contents
 1. [Junior Security Analyst Intro](#junior-security-analyst-intro)
 2. [SOC Role in Blue Team](#soc-role-in-blue-team)
@@ -8,6 +8,7 @@
 
 
 ## Junior Security Analyst Intro
+ ![alt text](Assets/JrSecAnal.png)
 ### Security Analyst Journey
 1. Which team do you work with as a Junior Security Analyst?
 
