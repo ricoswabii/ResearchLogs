@@ -1,0 +1,1 @@
+A collection of hands-on learning experiences, cybersecurity research, technical experiments, and discoveries. Documenting what I learn, what I test, what breaks, and the lessons I gain along the way.
